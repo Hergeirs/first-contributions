@@ -2661,3 +2661,5 @@
 - [Giuseppe Milicia](https://github.com/giuseppemilicia)
 - [NsLib](https://github.com/NsLib)
 - [Lewis Green](https://github.com/lewisxgreen)
+- [Hergeir](https://github.com/hergeirs)
+
